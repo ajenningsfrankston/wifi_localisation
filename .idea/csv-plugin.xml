@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="/input/indoor_unified_wifi_beacon/5a0546857ecc773753327266_train.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="/lstm-by-keras-with-unified-wi-fi-feats.ipynb">
           <value>
             <Attribute>
